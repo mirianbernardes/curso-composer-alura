@@ -21,3 +21,4 @@ $cursos = $buscador->buscar('cursos-online-programacao/php');
 foreach ($cursos as $curso) {
     exibirMensagem($curso);
 }
+//teste
